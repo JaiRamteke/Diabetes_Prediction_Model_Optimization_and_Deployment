@@ -78,16 +78,6 @@ Example structure of dataset features:
 
 ---
 
-## 📂 Additional Files
-
-📁 [Google Drive - Resources](https://drive.google.com/drive/folders/YOUR_LINK_HERE)  
-Contains:
-- Dataset (if external)
-- Output CSVs
-- Trained model files (Pickle/Joblib)
-- Saved figures and logs
-
----
 
 ## ✅ Deliverables
 
@@ -101,15 +91,13 @@ Contains:
 
 ## 📌 Repository Link
 
-🔗 GitHub Repo: [https://github.com/yourusername/diabetes-model-comparison](https://github.com/yourusername/diabetes-model-comparison)
+🔗 GitHub Repo: [https://github.com/yourusername/diabetes-model-comparison](https://github.com/JaiRamteke/Diabetes_Prediction_Model_Optimization_and_Deployment.git)
 
 ---
 
 ## 👨‍💻 Author
 
-*Nandeesh Puri*  
-B.Tech | Electronics & Computer  
-Machine Learning & Software Development Enthusiast
+*Jai Ramteke, Nandeesh Puri and Dyanna Joshi*  
 
 ---
 
