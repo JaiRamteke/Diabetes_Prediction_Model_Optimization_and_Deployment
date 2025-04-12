@@ -157,9 +157,7 @@ Contains:
 | Member  	| Focus Area	   | Key Contribution           |
 |-----------|----------------|----------------------------|
 | Jai Ramteke	| ML Engineering   | Model architecture, tuning |
-
 | Nandeesh Puri	| Data Pipeline	   | Data Analysis              |
-
 | Dyanna Joshi	| Visualization	   | Dashboard development      |
 
 
