@@ -76,14 +76,16 @@ Example structure of dataset features:
 
 ## Data Preparation
 
--Cleaning: Handle missing values (e.g., Glucose = 0 → median imputation).
--Scaling: StandardScaler for normalization.
--Split: 80% training, 20% testing.
+-  Cleaning: Handle missing values (e.g., Glucose = 0 → median imputation).
+
+-  Scaling: StandardScaler for normalization.
+
+-  Split: 80% training, 20% testing.
 
 ---
 
 
-## Model Training & Evaluation
+## Model Training 
 
 | Model	  | Key Hyperparameters Tuned |
 |---------|---------------------------|
@@ -93,11 +95,15 @@ Example structure of dataset features:
 | SVM	                | C, kernel                 |
 | Gradient Boosting	  | learning_rate, n_estimators |
 
+----
 
-🔧 Evaluation Metrics:
+
+## 🔧 Evaluation Metrics:
+
 
 -  Accuracy, Precision, Recall, F1 Score, R2 Score.
 -  Confusion matrices.
+
 
 ---
 
