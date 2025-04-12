@@ -84,7 +84,7 @@ Example structure of dataset features:
 ## ▶️ How to Run (Google Colab)
 
 1. *Open the notebook* directly in Google Colab:  
-   [Diabetes_Prediction_Model_Optimization_and_Deployment.ipynb](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
+   [Diabetes_Prediction_Model_Optimization_and_Deployment.ipynb](https://colab.research.google.com/github/JaiRamteke/Diabetes_Prediction_Model_Optimization_and_Deployment/blob/main/Diabetes_Prediction_Model_Optimization_and_Deployment.ipynb)
 
 2. *Run all cells* sequentially for:
    - Data preprocessing
