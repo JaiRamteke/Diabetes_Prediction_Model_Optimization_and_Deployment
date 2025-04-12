@@ -144,13 +144,13 @@ Contains:
 
 ## 👨‍💻 Team
 
-| Member	      | Role                     |
+Member	- Role  
+----------------------------------------
+Jai Ramteke	  - ML Engineer   
 
-|Jai Ramteke	  | ML Engineer              |
+Nandeesh Puri	- Data Analyst    
 
-|Nandeesh Puri	| Data Analyst             |
-
-|Dyanna Joshi	  | Visualization Specialist |
+Dyanna Joshi	- Visualization Specialist 
 
 
 ---
