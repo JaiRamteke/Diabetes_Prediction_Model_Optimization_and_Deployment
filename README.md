@@ -8,6 +8,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+<img src="https://github.com/JaiRamteke/Diabetes_Prediction_assets/blob/main/diabetes_awareness_ribbon.png?raw=true" width="150">
+![ML Pipeline](https://img.shields.io/badge/ML-Pipeline-blueviolet?style=for-the-badge&logo=scikitlearn)
+![Production Ready](https://img.shields.io/badge/Production-Ready-success?style=for-the-badge&logo=docker)
+![Metrics](https://img.shields.io/badge/Metrics-Accuracy_Precision_Recall_F1-important?style=for-the-badge)
+
 
 </div>
 
