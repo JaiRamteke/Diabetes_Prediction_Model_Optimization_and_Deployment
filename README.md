@@ -145,8 +145,11 @@ Contains:
 ## 👨‍💻 Team
 
 | Member	      | Role                     |
+
 |Jai Ramteke	  | ML Engineer              |
+
 |Nandeesh Puri	| Data Analyst             |
+
 |Dyanna Joshi	  | Visualization Specialist |
 
 
