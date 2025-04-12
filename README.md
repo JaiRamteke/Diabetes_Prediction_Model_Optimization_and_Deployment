@@ -152,15 +152,13 @@ Contains:
 ---
 
 
-## 👨‍💻 Team
+## 👨‍💻 Team Contributions
 
-Member	- Role  
-----------------------------------------
-Jai Ramteke	  - ML Engineer   
+Member	Focus Area	Key Contribution
+Jai Ramteke	ML Engineering	Model architecture, tuning
+Nandeesh Puri	Data Pipeline	Feature engineering, EDA
+Dyanna Joshi	Visualization	Dashboard development
 
-Nandeesh Puri	- Data Analyst    
-
-Dyanna Joshi	- Visualization Specialist 
 
 
 ---
