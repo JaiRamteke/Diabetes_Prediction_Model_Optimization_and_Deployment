@@ -1,126 +1,114 @@
 # 🧠 Diabetes Prediction Model Optimization and Deployment
 
-## 📌 Project Overview
+<div align="center">
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+</div>
+
+## ✨ Project Highlights
+
+<div align="center">
+  
+🔍 **Comparative Analysis** | 🎯 **5+ ML Models** | ⚙️ **Hyperparameter Tuning**  
+📊 **Interactive Dashboard** | 🏆 **Performance Metrics** | 🚀 **Deployment Ready**
+
+</div>
+
+---
+
+## 🌟 Project Overview
 
 This project compares and optimizes multiple classification models to predict diabetes using a structured machine learning pipeline. The focus is on model performance evaluation, hyper-parameter tuning, and visual comparison through a dashboard.
 
 ---
 
-## 🔍 Problem Statement
+## 🎯 Problem Statement
 
-The objective of this project is to:
+<div align="center">
+  
+| Objective | Key Actions |
+|-----------|-------------|
+| Model Comparison | Train 5+ classification algorithms |
+| Performance Evaluation | Measure accuracy, precision, recall, F1-score |
+| Optimization | Hyperparameter tuning with Grid/Random Search |
+| Visualization | Interactive dashboard for model comparison |
 
-1. Divide the dataset into training and testing sets.
-2. Train at least five classification models:
-   - Logistic Regression
-   - Decision Tree
-   - Random Forest
-   - Support Vector Machine
-   - Gradient Boosting
-3. Evaluate each model using:
-   - Accuracy
-   - Precision
-   - Recall
-   - F1-score
-   - R² Score (for extended insight)
-4. Perform hyper-parameter tuning (Grid Search, Random Search).
-5. Visualize model comparisons with a dashboard.
+</div>
 
 ---
 
-## 🧾 Dataset Description
+## 📊 Dataset Description
 
-Example structure of dataset features:
+```python
+# Example dataset features
+features = {
+    'Age': 'Numeric',
+    'BMI': 'Numeric (Body Mass Index)',
+    'Glucose': 'Numeric (Blood Sugar Level)',
+    'Insulin': 'Numeric',
+    'Outcome': 'Binary Target (1=Diabetic, 0=Healthy)'
+}
+🛠️ Tech Stack
+<div align="center">
+Category	Tools
+Core ML	Scikit-learn, XGBoost
+Visualization	Matplotlib, Seaborn, Plotly
+Deployment	Streamlit (Optional)
+Optimization	GridSearchCV, RandomizedSearchCV
+</div>
+📈 Dashboard Features
+mermaid
+Copy
+pie showTitle
+    title Dashboard Components
+    "Model Metrics Comparison" : 35
+    "Hyperparameter Tuning Results" : 25
+    "Feature Importance" : 20
+    "Real-time Predictions" : 20
+🚀 Implementation
+bash
+Copy
+# Quick Start (Google Colab)
+1. Open notebook in Colab
+2. Run all cells sequentially
+3. Explore model comparisons
+4. (Optional) Export to Streamlit app
+📌 Results Showcase
+<div align="center">
 
-| Feature      | Type       | Description                           |
-|--------------|------------|---------------------------------------|
-| age          | Numeric    | Age of the individual                 |
-| bmi          | Numeric    | Body Mass Index                       |
-| glucose      | Numeric    | Glucose level                         |
-| gender       | Categorical| Gender of the individual              |
-| smoke        | Binary     | Smoker status (1 = Yes, 0 = No)       |
-| ...          | ...        | Additional relevant features          |
-| diabetes     | Binary     | Target variable (1 = Diabetic, 0 = Not) |
+Model Comparison
+Fig 1. Model performance comparison
+</div>
 
----
+📌 Future Improvements
+Integrate a real-time prediction dashboard
 
-## 🛠️ Technologies & Tools
+Add more advanced models (XGBoost, LightGBM)
 
-- Python (Google Colab)
-- NumPy, Pandas
-- Scikit-learn
-- Seaborn, Matplotlib, Plotly
-- GridSearchCV, RandomizedSearchCV
-- Streamlit / Plotly Dash (for optional dashboard)
-
----
-
-## 📈 Dashboard Features
-
-- Visualize metrics like Accuracy, F1-Score, and R² Score across all models
-- Compare performance before and after hyper-parameter tuning
-- Highlight top-performing models for specific data conditions
-
----
-
-## ▶️ How to Run (Google Colab)
-
-1. *Open the notebook* directly in Google Colab:  
-   [Diabetes_Prediction_Model_Optimization_and_Deployment.ipynb](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
-
-2. *Run all cells* sequentially for:
-   - Data preprocessing
-   - Model training & evaluation
-   - Hyper-parameter tuning
-   - Results visualization
-
-3. *(Optional)*: Download notebook as .py or export results if needed.
-
----
-
-
-## ✅ Deliverables
-
-- ✔️ Cleaned and split dataset
-- ✔️ Trained 5+ classification models
-- ✔️ Performance evaluation logs
-- ✔️ Hyper-parameter tuning results
-- ✔️ Visual comparison dashboard
-
----
+Enable model deployment via Flask or FastAPI
 
 
-## ✅ Results
+🌐 Repository Links
+<div align="center">
+GitHub
+Google Drive
 
+</div>
+👨‍💻 Team
+<div align="center">
+Member	Role
+Jai Ramteke	ML Engineer
+Nandeesh Puri	Data Analyst
+Dyanna Joshi	Visualization Specialist
+</div>
+<div align="center">
+💡 "The best model is the one that tells you the most about your data."
+🌟 Star the repo if you find this useful!
 
-![Screenshot 2025-04-12 201819](https://github.com/user-attachments/assets/369c91e0-8f1a-43e9-bb6b-5db2a67bfe48)
-
-
-
-
-![Screenshot 2025-04-12 201954](https://github.com/user-attachments/assets/8d4ef7e4-b961-43ea-96fc-25f4995dd0e4)
-
----
-
-
-## 📌 Repository Link
-
-🔗 GitHub Repo: [https://github.com/yourusername/diabetes-model-comparison](https://github.com/JaiRamteke/Diabetes_Prediction_Model_Optimization_and_Deployment.git)
-
----
-
-
-📁 [Google Drive - Resources](https://drive.google.com/drive/folders/1u0PrWS-AEzMIpOLhnx8Oc6uLfPVZXiyp?usp=sharing)  
-Contains:
--  Group video of the presentation of the submission
-
----
-
-
-## 👨‍💻 Author
-
-*Jai Ramteke, Nandeesh Puri and Dyanna Joshi*  
-
----
-
-> “The best model is the one that tells you the most about your data.”
+</div> ```
