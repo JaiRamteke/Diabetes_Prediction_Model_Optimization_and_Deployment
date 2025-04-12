@@ -53,7 +53,7 @@ This project focuses on developing, optimizing, and comparing multiple machine l
 
 ## 📊 Dataset Description
 
-- Pima Indians Diabetes Dataset (768 samples, 9 features):
+- Pima Indians Diabetes Dataset (768 samples, 9 features).
 - Target: Outcome (1 = diabetic, 0 = non-diabetic).
 - Class imbalance: 65% non-diabetic vs. 35% diabetic.
 
@@ -155,29 +155,27 @@ Gradient Boosting	learning_rate, n_estimators
 
 ## 📌 Future Improvements
 
-- Integrate a real-time prediction dashboard
-- Add more advanced models (XGBoost, LightGBM)
-- Enable model deployment via Flask or FastAPI
+- Integrate a real-time prediction dashboard.
+- Add more advanced models (XGBoost, LightGBM).
+- Enable model deployment via Flask or FastAPI.
 
 ---
 
 
 ## 🎯 Key Takeaways
 
-Random Forest outperformed others after hyperparameter tuning.
-
-Glucose levels were the most predictive feature.
-
-Deployment-ready pipeline with modular components.
+-  Random Forest outperformed others after hyperparameter tuning.
+-  Glucose levels were the most predictive feature.
+-  Deployment-ready pipeline with modular components.
 
 ---
 
 
 ## 📌 Why This Project?
 
--Clinical Impact: Early diabetes prediction can improve patient outcomes.
--End-to-End ML Pipeline: Demonstrates data cleaning → training → tuning → deployment.
--Open-Source: Fully reproducible code for healthcare/ML communities.
+-  Clinical Impact: Early diabetes prediction can improve patient outcomes.
+-  End-to-End ML Pipeline: Demonstrates data cleaning → training → tuning → deployment.
+-  Open-Source: Fully reproducible code for healthcare/ML communities.
 
 ---
 
