@@ -216,7 +216,7 @@ Example structure of dataset features:
 
 
 📁 [Google Drive - Resources](https://drive.google.com/drive/folders/1u0PrWS-AEzMIpOLhnx8Oc6uLfPVZXiyp?usp=sharing)  
-Contains:
+
 -  Group video of the presentation of the submission
 
 ---
@@ -234,4 +234,4 @@ Contains:
 
 ---
 
-> “The best model is the one that tells you the most about your data.”
+##  🌟“The best model is the one that tells you the most about your data.”
