@@ -89,6 +89,20 @@ Example structure of dataset features:
 
 ---
 
+
+## ✅ Results
+
+
+![Screenshot 2025-04-12 201819](https://github.com/user-attachments/assets/369c91e0-8f1a-43e9-bb6b-5db2a67bfe48)
+
+
+
+
+![Screenshot 2025-04-12 201954](https://github.com/user-attachments/assets/8d4ef7e4-b961-43ea-96fc-25f4995dd0e4)
+
+---
+
+
 ## 📌 Repository Link
 
 🔗 GitHub Repo: [https://github.com/yourusername/diabetes-model-comparison](https://github.com/JaiRamteke/Diabetes_Prediction_Model_Optimization_and_Deployment.git)
