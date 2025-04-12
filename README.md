@@ -217,7 +217,7 @@ Example structure of dataset features:
 
 📁 [Google Drive - Resources](https://drive.google.com/drive/folders/1u0PrWS-AEzMIpOLhnx8Oc6uLfPVZXiyp?usp=sharing)  
 
--  Group video of the presentation of the submission
+-  Group video of the presentation of the Project.
 
 ---
 
