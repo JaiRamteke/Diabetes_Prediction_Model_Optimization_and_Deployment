@@ -45,7 +45,7 @@ This project compares and optimizes multiple classification models to predict di
 
 ## 📊 Dataset Description
 
-```python
+
 # Example dataset features
 features = {
     'Age': 'Numeric',
@@ -54,6 +54,8 @@ features = {
     'Insulin': 'Numeric',
     'Outcome': 'Binary Target (1=Diabetic, 0=Healthy)'
 }
+
+
 🛠️ Tech Stack
 <div align="center">
 Category	Tools
@@ -62,6 +64,8 @@ Visualization	Matplotlib, Seaborn, Plotly
 Deployment	Streamlit (Optional)
 Optimization	GridSearchCV, RandomizedSearchCV
 </div>
+
+
 📈 Dashboard Features
 mermaid
 Copy
@@ -71,20 +75,25 @@ pie showTitle
     "Hyperparameter Tuning Results" : 25
     "Feature Importance" : 20
     "Real-time Predictions" : 20
+
+
 🚀 Implementation
-bash
-Copy
+
 # Quick Start (Google Colab)
 1. Open notebook in Colab
 2. Run all cells sequentially
 3. Explore model comparisons
 4. (Optional) Export to Streamlit app
+
+
 📌 Results Showcase
 <div align="center">
 
 Model Comparison
 Fig 1. Model performance comparison
 </div>
+
+
 
 📌 Future Improvements
 Integrate a real-time prediction dashboard
@@ -100,6 +109,8 @@ GitHub
 Google Drive
 
 </div>
+
+
 👨‍💻 Team
 <div align="center">
 Member	Role
@@ -107,6 +118,8 @@ Jai Ramteke	ML Engineer
 Nandeesh Puri	Data Analyst
 Dyanna Joshi	Visualization Specialist
 </div>
+
+
 <div align="center">
 💡 "The best model is the one that tells you the most about your data."
 🌟 Star the repo if you find this useful!
