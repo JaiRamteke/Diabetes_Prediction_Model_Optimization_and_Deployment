@@ -18,6 +18,7 @@
 
 </div>
 
+
 ## ✨ Project Highlights
 
 <div align="center">
@@ -143,6 +144,7 @@ Contains:
 
 
 ## 👨‍💻 Team
+
 
 Member	- Role  
 ----------------------------------------
