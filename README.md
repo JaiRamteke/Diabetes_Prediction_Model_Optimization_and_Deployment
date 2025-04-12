@@ -234,4 +234,6 @@ Example structure of dataset features:
 
 ---
 
-🌟“The best model is the one that tells you the most about your data.”
+💡“The best model is the one that tells you the most about your data.”
+
+---
