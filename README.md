@@ -46,82 +46,103 @@ This project compares and optimizes multiple classification models to predict di
 ## 📊 Dataset Description
 
 
-# Example dataset features
-features = {
-    'Age': 'Numeric',
-    'BMI': 'Numeric (Body Mass Index)',
-    'Glucose': 'Numeric (Blood Sugar Level)',
-    'Insulin': 'Numeric',
-    'Outcome': 'Binary Target (1=Diabetic, 0=Healthy)'
-}
+Example structure of dataset features:
+
+| Feature                   | Type       | Description                           |
+|---------------------------|------------|---------------------------------------|
+| Age                       | Numeric    | Age of the individual                 |
+| BMI                       | Numeric    | Body Mass Index                       |
+| Insulin                   | Numeric    | Insulin value in the blood            |
+| Glucose                   | Numeric    | Glucose level                         |
+| SkinThickness             | Numeric    | Thickness of the skin of individual   |
+| DiabetesPredgreeFunction  | Numeric    | Gender of the individual              |
+| Pregnancies               | Numeric    | No of pregenancies                    |
+| Bloodpressure             | Numeric    | Blood pressure of the individual      |
+| Outcome                   | Binary     | Target variable (1 = Diabetic, 0 = Not)|
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Python (Google Colab)
+- NumPy, Pandas
+- Scikit-learn
+- Seaborn, Matplotlib, Plotly
+- GridSearchCV, RandomizedSearchCV
+- Streamlit / Plotly Dash (for optional dashboard)
+
+---
+
+## 📈 Dashboard Features
+
+- Visualize metrics like Accuracy, F1-Score, and R² Score across all models
+- Compare performance before and after hyper-parameter tuning
+- Highlight top-performing models for specific data conditions
+
+---
+
+## ▶️ How to Run (Google Colab)
+
+1. *Open the notebook* directly in Google Colab:  
+   [Diabetes_Prediction_Model_Optimization_and_Deployment.ipynb](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
+
+2. *Run all cells* sequentially for:
+   - Data preprocessing
+   - Model training & evaluation
+   - Hyper-parameter tuning
+   - Results visualization
+
+3. *(Optional)*: Download notebook as .py or export results if needed.
+
+---
 
 
-🛠️ Tech Stack
-<div align="center">
-Category	Tools
-Core ML	Scikit-learn, XGBoost
-Visualization	Matplotlib, Seaborn, Plotly
-Deployment	Streamlit (Optional)
-Optimization	GridSearchCV, RandomizedSearchCV
-</div>
+## ✅ Deliverables
+
+- ✔️ Cleaned and split dataset
+- ✔️ Trained 5+ classification models
+- ✔️ Performance evaluation logs
+- ✔️ Hyper-parameter tuning results
+- ✔️ Visual comparison dashboard
+
+---
 
 
-📈 Dashboard Features
-mermaid
-Copy
-pie showTitle
-    title Dashboard Components
-    "Model Metrics Comparison" : 35
-    "Hyperparameter Tuning Results" : 25
-    "Feature Importance" : 20
-    "Real-time Predictions" : 20
+## ✅ Results
 
 
-🚀 Implementation
-
-# Quick Start (Google Colab)
-1. Open notebook in Colab
-2. Run all cells sequentially
-3. Explore model comparisons
-4. (Optional) Export to Streamlit app
-
-
-📌 Results Showcase
-<div align="center">
-
-Model Comparison
-Fig 1. Model performance comparison
-</div>
+![Screenshot 2025-04-12 201819](https://github.com/user-attachments/assets/369c91e0-8f1a-43e9-bb6b-5db2a67bfe48)
 
 
 
-📌 Future Improvements
-Integrate a real-time prediction dashboard
 
-Add more advanced models (XGBoost, LightGBM)
+![Screenshot 2025-04-12 201954](https://github.com/user-attachments/assets/8d4ef7e4-b961-43ea-96fc-25f4995dd0e4)
 
-Enable model deployment via Flask or FastAPI
+---
 
 
-🌐 Repository Links
-<div align="center">
-GitHub
-Google Drive
+## 📌 Repository Link
 
-</div>
+🔗 GitHub Repo: [https://github.com/yourusername/diabetes-model-comparison](https://github.com/JaiRamteke/Diabetes_Prediction_Model_Optimization_and_Deployment.git)
 
-
-👨‍💻 Team
-<div align="center">
-Member	Role
-Jai Ramteke	ML Engineer
-Nandeesh Puri	Data Analyst
-Dyanna Joshi	Visualization Specialist
-</div>
+---
 
 
-<div align="center">
-💡 "The best model is the one that tells you the most about your data."
-🌟 Star the repo if you find this useful!
+📁 [Google Drive - Resources](https://drive.google.com/drive/folders/1u0PrWS-AEzMIpOLhnx8Oc6uLfPVZXiyp?usp=sharing)  
+Contains:
+-  Group video of the presentation of the submission
 
-</div> ```
+---
+
+
+## 👨‍💻 Team
+
+| Member	      | Role                     |
+|Jai Ramteke	  | ML Engineer              |
+|Nandeesh Puri	| Data Analyst             |
+|Dyanna Joshi	  | Visualization Specialist |
+
+
+---
+
+> “The best model is the one that tells you the most about your data.”
