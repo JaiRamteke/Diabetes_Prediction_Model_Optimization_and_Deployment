@@ -129,6 +129,15 @@ Example structure of dataset features:
 ---
 
 
+## 📌 Future Improvements
+
+- Integrate a real-time prediction dashboard
+- Add more advanced models (XGBoost, LightGBM)
+- Enable model deployment via Flask or FastAPI
+
+---
+
+
 ## 📌 Repository Link
 
 🔗 GitHub Repo: [https://github.com/yourusername/diabetes-model-comparison](https://github.com/JaiRamteke/Diabetes_Prediction_Model_Optimization_and_Deployment.git)
@@ -144,7 +153,6 @@ Contains:
 
 
 ## 👨‍💻 Team
-
 
 Member	- Role  
 ----------------------------------------
