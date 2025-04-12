@@ -83,15 +83,36 @@ Example structure of dataset features:
 ---
 
 
-## Model Training
-Model	Key Hyperparameters Tuned
-Logistic Regression	C, penalty
-Decision Tree	max_depth, min_samples_split
-Random Forest	n_estimators, max_features
-SVM	C, kernel
-Gradient Boosting	learning_rate, n_estimators
+## Model Training & Evaluation
+
+| Model	  | Key Hyperparameters Tuned |
+|---------|---------------------------|
+| Logistic Regression |	C, penalty    |
+| Decision Tree	      | max_depth, min_samples_split |
+| Random Forest	      | n_estimators, max_features |
+| SVM	                | C, kernel                 |
+| Gradient Boosting	  | learning_rate, n_estimators |
+
+
+🔧 Evaluation Metrics:
+
+-  Accuracy, Precision, Recall, F1 Score, R2 Score.
+-  Confusion matrices.
 
 ---
+
+
+## ⚡ Hyperparameter Optimization
+
+-  Used RandomizedSearchCV for efficient optimization.
+
+
+🌳 Why Random Forest?
+
+- Handles Imbalance: Built-in bagging reduces overfitting to majority class.
+- Feature Importance: Quantifies clinical risk factors (e.g., Glucose > BMI > Age).
+- Robustness: Works well with small datasets and mixed data types.
+
 
 
 ## 🛠️ Technologies & Tools
